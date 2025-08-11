@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h1 align="center">Hi there 👋, I'm Nandni Vashistha</h1>
 <h3 align="center"><em>Where tech, products, and people meet — that’s my happy place.</em></h3>
-<p align="center">Currently learning DevOps and Automation 🚀</p>
+<p align="center">Currently learning DevOps and Automation </p>
 
 <!-- Badges -->
 <p align="center">
