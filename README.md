@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I'm Nandni Vashistha
+I'm Nandni Vashistha
 
 💡 **Where tech, products, and people meet — that’s my happy place.**  
 I build, analyze, and tell the stories of products so they can reach the people who need them most. From data-driven decision making to engaging user experiences, I bridge the gap between **code and customer**.  
@@ -40,8 +40,7 @@ I build, analyze, and tell the stories of products so they can reach the people 
 
 ---
 
-#🤝 Let’s Collaborate  
-
+🤝 Let’s Collaborate  
 I’m always open to contributing to **product-focused, data-driven, and socially impactful** projects. Whether it’s building features or telling your product’s story — I’m in!  
 
 📫 **Reach me at:**  
