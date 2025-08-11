@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I'm Nandni Vashistha
+I'm Nandni Vashistha, *Where tech, products, and people meet — that’s my happy place.* 
 
-**Where tech, products, and people meet — that’s my happy place.**  
 ---
 
 ## What I Do  
