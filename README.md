@@ -2,9 +2,7 @@
 
 I'm Nandni Vashistha
 
-💡 **Where tech, products, and people meet — that’s my happy place.**  
-I build, analyze, and tell the stories of products so they can reach the people who need them most. From data-driven decision making to engaging user experiences, I bridge the gap between **code and customer**.  
-
+**Where tech, products, and people meet — that’s my happy place.**  
 ---
 
 ## What I Do  
