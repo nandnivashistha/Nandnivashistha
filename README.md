@@ -7,16 +7,16 @@ I build, analyze, and tell the stories of products so they can reach the people 
 
 ---
 
-## 🚀 What I Do  
+## What I Do  
 
-- **🔍 Product Analysis & Strategy** – Identifying gaps, validating ideas, and mapping out roadmaps.  
-- **📊 Data Analytics** – Python, SQL, and Excel for insights & automation.  
-- **🎨 Design & UX** – UI/UX workflows, wireframes, and user journey mapping.  
-- **📢 Marketing & Content** – Technical storytelling, SEO optimization, and GTM strategy.  
+- **Product Analysis & Strategy** – Identifying gaps, validating ideas, and mapping out roadmaps.  
+- **Data Analytics** – Python, SQL, and Excel for insights & automation.  
+- **Design & UX** – UI/UX workflows, wireframes, and user journey mapping.  
+- **Marketing & Content** – Technical storytelling, SEO optimization, and GTM strategy.  
 
 ---
 
-## 🛠 Tech & Tools  
+# 🛠 Tech & Tools  
 
 **Languages:** Python, JavaScript, SQL, HTML, CSS  
 **Frameworks & Libraries:** React, Flask, scikit-learn  
@@ -25,7 +25,7 @@ I build, analyze, and tell the stories of products so they can reach the people 
 
 ---
 
-## 📂 Featured Projects  
+# 📂 Featured Projects  
 
 - 🎯 **[Machine Minds: Hyperparameter Tuning Game](https://github.com/yourusername/machine-minds)** – Gamified ML learning platform for kids, built with Flask + scikit-learn.  
 - 📄 **Resume Screener** – NLP-powered tool to match resumes against job descriptions.  
@@ -40,7 +40,7 @@ I build, analyze, and tell the stories of products so they can reach the people 
 
 ---
 
-## 🤝 Let’s Collaborate  
+#🤝 Let’s Collaborate  
 
 I’m always open to contributing to **product-focused, data-driven, and socially impactful** projects. Whether it’s building features or telling your product’s story — I’m in!  
 
