@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nandnivashistha/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:nandnivashistha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nandnivashistha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -42,12 +41,6 @@
 - 🎯 **[Machine Minds: Hyperparameter Tuning Game](https://github.com/yourusername/machine-minds)** – Gamified ML learning platform for kids, built with Flask + scikit-learn.  
 - 📄 **Resume Screener** – NLP-powered tool to match resumes against job descriptions.  
 - 🖐 **Sign Language Detection System** – Real-time gesture recognition using OpenCV & ML.  
-
----
-
-📫 **Reach me at:**  
-- [LinkedIn](https://www.linkedin.com/in/nandnivashistha/)  
-- ✉️ **Email:** nandnivashistha@gmail.com  
 
 ---
 
