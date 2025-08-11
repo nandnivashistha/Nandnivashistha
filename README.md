@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - **Product Analysis & Strategy** – Identifying gaps, validating ideas, and mapping out roadmaps.  
 - **Data Analytics** – Python, SQL, and Excel for insights & automation.  
@@ -20,7 +20,7 @@
 
 ---
 
-#🚀 Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
@@ -33,25 +33,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
 </p>
 
-## 🛠 Tools & Platforms
+## Tools & Platforms
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="60" height="60"/>
-  <img src="https://seeklogo.com/images/Z/zapier-logo-0B328C5DCB-seeklogo.com.png" alt="Zapier" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/intercom-1.svg" alt="Intercom" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
-</p>
+Notion, Trello, Zapier, Intercom, GitHub, Figma
 
-## 🎯 Specialties  
+## Specialties  
 
 - Product Documentation  
 - Technical Content Writing  
 - Workflow Automation
 ---
 
-> *"The best products aren’t just built — they’re understood, felt, and experienced."*
+*"The best products aren’t just built — they’re understood, felt, and experienced."*
